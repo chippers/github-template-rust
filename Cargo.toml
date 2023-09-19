@@ -1,0 +1,9 @@
+[workspace]
+members = ["crates/*"]
+resolver = "2"
+
+[workspace.package]
+author = ["Chip Reed <chip@chip.sh>"]
+repository = "https://github.com/chippers/github-template-rust"
+license = "Apache-2.0 OR MIT"
+edition = "2021"
